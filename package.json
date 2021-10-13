@@ -1,0 +1,30 @@
+{
+  "name": "my-sn-api",
+  "version": "1.0.0",
+  "description": "social network api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irina-Golubitsky/my-sn-api.git"
+  },
+  "keywords": [
+    "social",
+    "network"
+  ],
+  "author": "Irina Golubitsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Irina-Golubitsky/my-sn-api/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.9",
+    "nodemon": "^2.0.12"
+  },
+  "homepage": "https://github.com/Irina-Golubitsky/my-sn-api#readme"
+}
