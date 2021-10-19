@@ -43,9 +43,7 @@ Test your routes in Insomnia Core
 
 ## Demo
 
-This video shows some of the api routes (not all of them):
-  
- https://watch.screencastify.com/v/JTnEhBpwrjEWQZMhiBMr
+https://watch.screencastify.com/v/K8BqWHu4n5Is9p7pI413
 
 ## ScreenShot
   
