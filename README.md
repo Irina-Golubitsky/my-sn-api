@@ -42,8 +42,10 @@ Test your routes in Insomnia Core
   The MIT License
 
 ## Demo
+
+This video shows some of the api routes (not all of them):
   
- 
+ https://watch.screencastify.com/v/JTnEhBpwrjEWQZMhiBMr
 
 ## ScreenShot
   
